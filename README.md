@@ -1,5 +1,4 @@
 <h1 align="center">
-  💻<br>Portfólio - Iuri Silva
 </h1>
 
 ![Resultado final do projeto](assets/image/preview.png)
